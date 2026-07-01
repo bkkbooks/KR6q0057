@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR6q0057/T/v1
+canonical_location: https://kanripo.org/bkk/KR6q0057/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 楊岐方會和尚後錄
+  identifiers:
+    krp: KR6q0057
+    cbeta: T47n1994B
+    cbeta_old_id: T47n1994B
+    authorityid: CA0003683
+    json_key: T1994B
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T47/T47n1994B.xml
+    old_id: T47n1994B
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0057_000-T.yaml, hash: 'sha256:d45daf6f0dfee959b2b1b917f14cc9b943dcee57f333a9e2ab0f82da6aa0d627'}
+  - {seq: 1, filename: KR6q0057_001-T.yaml, hash: 'sha256:4ae5bfc9e3cafcd3d04eab49eff4ea12401c03a323e95adb6658d1a3bab93124'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0057_000-T.markers.yaml, hash: 'sha256:2c17a2bc9a5cf9178021bc4d0b840429c921253ce62b8c7ae77b7aed4dc9f321'}
+  - {seq: 1, role: markers, filename: assets/KR6q0057_001-T.markers.yaml, hash: 'sha256:f08a96d2cd7c54a9a66f3a5ecaa67ee8ec22727a377540b2e9b05f0caeb2a584'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6q0057_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3520
+  label: 楊岐方會和尚後錄
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0057_T_001-mulu-1
+    span:
+    - body
+    - 2798
+    - 2798
+  label: 勘辯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0057_T_001-mulu-2
+    span:
+    - body
+    - 3436
+    - 3436
+  label: 自術真讚
+  type: mulu
+  level: 1
+hash: sha256:81810355312554455b4f731b5c517382fabb87f224716d587d59a06c16f0bc61

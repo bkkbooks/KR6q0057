@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0057/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 楊岐方會和尚後錄
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T47/T47n1994B.xml
+    old_id: T47n1994B
+hash: sha256:d45daf6f0dfee959b2b1b917f14cc9b943dcee57f333a9e2ab0f82da6aa0d627
